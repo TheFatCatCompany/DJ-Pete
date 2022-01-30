@@ -830,4 +830,4 @@ async def on_ready():
     await bot.change_presence(activity=discord.Game('music on Sennheisers. Type "Pete, help" for a command list.'))
         
 
-bot.run('ODg5NzUwODk0Mjc3Njk3NjA3.YUlzFw.9CcpSga17jQb2gYUnRnU4taNipE')
+bot.run('BOT ID')
